@@ -21,8 +21,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**框架**: Django, FastAPI, Spring Boot, Gin  
-**API 設計**: RESTful API, gRPC, OAuth2 + OIDC
+**框架**: Django, Spring Boot, Gin  
+**API 設計**: RESTful API, FastAPI, gRPC
 
 ### 資料庫系統
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -30,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**使用經驗**: Schema Design, 效能優化, Partition, Index分析, 分散式鎖
+**使用經驗**: Schema Design, 效能優化, Partition
 
 ### 前端開發
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -45,8 +45,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### IoT & AI
-**通訊協定**: Modbus, MQTT, LoRa  
-**機器學習**: TensorFlow, Keras, OpenCV, YOLOv3  
+**通訊協定**: LoRa, MQTT, Modbus  
+**AI 相關**: TensorFlow, Keras, OpenCV, YOLOv3  
 **數據分析**: Pandas, NumPy, Matplotlib, Seaborn
 
 ---
@@ -60,6 +60,10 @@
 - 整合多系統日結資料，建立完整的前後端架構
 - 開發網頁爬蟲自動化數據收集，透過 SMTP 發送 Daily Report
 - 實現地端到雲端數據同步，使用 Grafana 進行視覺化呈現
+#### <成果>
+- 減輕同仁日常操作時間 2~3 小時到 10 分鐘
+- 從手寫的 Email 轉換為更直覺的圖表、表格呈現
+- 資訊排序，重要事件摘要一目了然
 
 #### IoT Metal Gate Dashboard (進行中)
 - 設計後端 API 接口，開發前端 Dashboard UI
@@ -83,7 +87,7 @@
 | **先進智慧排程系統** | Python | 自動化21工作站排程優化 |
 | **天車遙控器門禁系統** | Python + Face-net | 人臉辨識設備管理透明化 |
 | **油桶儀表車牌辨識** | Python + YOLOv3 | 手寫轉數位化自動流程 |
-| **軋機設備預診斷** | Python + ML | 97%準確率，年省100萬成本 |
+| **軋機設備預診斷** | Python + ML | 97%準確率，年省100萬耗材成本 |
 | **直棒彎曲檢測系統** | Python + C# | 大幅提升產品良率 |
 
 ---
@@ -112,6 +116,3 @@
 - [![Vocus](https://img.shields.io/badge/Vocus-00D4AA?style=flat&logo=v&logoColor=white)](https://vocus.cc/user/68689deffd89780001c6dc1d)
 
 ---
-
-*"Code is poetry, and every project tells a story."*  
-*持續學習新技術，用程式碼創造價值 🚀*
