@@ -1,6 +1,6 @@
 # 林季鴻 (Alan Lin)
 
-## 🚀 資深後端工程師 | Full-Stack Developer
+## 🚀 資深後端工程師 | Senior Backend Engineer
 
 6 年後端 + 3 年前端經驗 | 專精後端開發、系統設計、系統維運、IoT 整合開發
 
@@ -22,9 +22,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **框架**: Django, Spring Boot, Gin  
-**API 設計**: RESTful API, FastAPI, gRPC
+**API**: RESTful API, FastAPI, gRPC
 
-### 資料庫系統
+### 資料庫
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -63,7 +63,6 @@
 #### <成果>
 - 減輕同仁日常操作時間 2~3 小時到 10 分鐘
 - 從手寫的 Email 轉換為更直覺的圖表、表格呈現
-- 資訊排序，重要事件摘要一目了然
 
 #### IoT Metal Gate Dashboard (進行中)
 - 設計後端 API 接口，開發前端 Dashboard UI
@@ -105,8 +104,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jihong620@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-lin-543b761b1/)  
-📍 **Location**: 台中 (可配合新竹、台北工作)  
-🌐 **Remote**: 對遠端工作有意願
+📍 **Location**: 台中 (可配合新竹、台北工作)
 
 ---
 
