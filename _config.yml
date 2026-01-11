@@ -1,0 +1,27 @@
+# GitHub Pages Jekyll Configuration
+title: 林季鴻 (Alan Lin) - 資深後端工程師
+description: 擁有 6 年後端開發經驗 + 3 年前端經驗的資深軟體工程師，專精於後端開發、系統設計、IoT 整合開發
+author: 林季鴻 (Alan Lin)
+email: jihong620@gmail.com
+url: https://github.com/Jihong620/resume
+baseurl: /resume
+
+# SEO Settings
+lang: zh-TW
+keywords: 後端工程師, Python, Java, Go, Django, Spring Boot, IoT, AI, 機器學習, 系統設計, API開發, 資料庫優化, DevOps, Docker, Kubernetes, FastAPI, gRPC, RESTful API, 軟體工程師, 全端工程師, 台積電, 緯創軟體
+
+# Theme (optional - for Jekyll themes)
+# theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
+  - LICENSE

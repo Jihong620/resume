@@ -1,0 +1,45 @@
+# 設定說明文件（個人使用，不需要公開）
+SEO_SETUP.md
+
+# 編輯器和 IDE 設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 系統檔案
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 臨時檔案
+*.tmp
+*.log
+*.bak
+*.cache
+
+# 個人筆記或草稿（如果有）
+draft/
+notes/
+personal/
+
+# 備份檔案
+*.backup
+*.old
+
+# 環境變數檔案（如果有）
+.env
+.env.local
+
+# 編譯或建置產物（如果有）
+dist/
+build/
+*.pyc
+__pycache__/
+node_modules/
+
+# PDF 版本（如果不想公開 PDF）
+# resume.pdf
+# resume_zh.pdf
